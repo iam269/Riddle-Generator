@@ -1,0 +1,42 @@
+* {
+  box-sizing: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(45deg, #d674f9, #7e1cfc);
+}
+.container {
+  width: min(500px, 90vw);
+  background-color: #ffffff;
+  padding: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+}
+#riddle {
+  margin-bottom: 30px;
+}
+#show-answer,
+#next {
+  font-size: 16px;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+#show-answer {
+  background-color: #7e1cfc;
+  color: #ffffff;
+}
+#next {
+  background-color: #ffffff;
+  border: 2px solid #7e1cfc;
+  color: #7e1cfc;
+}
+.hide {
+  display: none;
+}
