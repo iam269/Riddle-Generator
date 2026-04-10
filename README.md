@@ -9,7 +9,7 @@ Welcome to the **Riddle Generator**! This fun web application generates random r
 - 📱 Responsive design for all devices
 
 ## Live Demo
-Check out the live version here: [https://iam269.github.io/Riddle-Generator/](https://iam269.github.io/Riddle-Generator/)
+Check out the live version here: [https://itsiamdev.github.io/Riddle-Generator/](https://itsiamdev.github.io/Riddle-Generator/)
 
 ## How to Use
 1. Open the app in your browser
